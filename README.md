@@ -7,5 +7,3 @@
 ## Prerequisites
  - NML compilator (read in projects info)
  - Game OpenTTD
-
-

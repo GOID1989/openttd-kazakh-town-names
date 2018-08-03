@@ -1,5 +1,7 @@
 # openttd-kazakh-town-names
 
+Real world refference - https://en.wikipedia.org/wiki/Kazakhstan
+
 110 Kazakhstan city names and 7000+ other localitys. 
 Based on public information published by Statistics Committee Ministry of the National Economy of the Republic of Kazakhstan.
 Translit by GOST 7.79-2000 System B
