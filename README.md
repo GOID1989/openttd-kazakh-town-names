@@ -6,7 +6,7 @@ Translit by GOST 7.79-2000 System B
 
 ## How compile GRF file:
  - Install NML from https://www.tt-wiki.net/wiki/NMLTutorial/Installation
- - Command to run: nmlc.exe "FULL_PATH_TO_NML_FILE" --grf="FULL_PATH_TO_OUTPUT_GRF_FILE" --lang-dir="PATH_TO_LNG_FILES_FOLDER"
+ - Command to run: `nmlc.exe "FULL_PATH_TO_NML_FILE" --grf="FULL_PATH_TO_OUTPUT_GRF_FILE" --lang-dir="PATH_TO_LNG_FILES_FOLDER"`
  
 ## How use new town names:
  - Move *.grf file to User Profile OpenTTD\data folder (example C:\Users\User\Documents\OpenTTD\data)
