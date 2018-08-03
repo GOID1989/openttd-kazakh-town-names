@@ -1,0 +1,9 @@
+﻿##grflangid 07
+
+STR_GRF_NAME						:Kazakh Town Names (Казахские названия городов)
+STR_GRF_DESCRIPTION					:{BLACK}Описание: {SILVER}110 реальных городов Казахстана и 7000+ других населенных пунктов. На основании публичных данных Комитета статистики Министерства экономики Республики Казахстан{}{}{BLACK}Владелец: {SILVER}{COPYRIGHT} GOID{}{BLACK}Дата: {SILVER}2018-01-25{}{BLACK}Лицензия: {SILVER}CC-BY-SA 3.0{}
+STR_GRF_URL							:https://www.tt-forums.net/viewtopic.php?f=67&t=82529
+
+STR_GAME_OPTIONS_TOWN_NAME_RU	:Казахские (реальные, кириллица)
+STR_GAME_OPTIONS_TOWN_NAME_EN	:Казахские (реальные, латиница)
+STR_GAME_OPTIONS_TOWN_NAME_KZ	:Казахские (реальные, кириллица национальная)

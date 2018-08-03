@@ -1,0 +1,9 @@
+﻿##grflangid 01
+
+STR_GRF_NAME						:Kazakh Town Names
+STR_GRF_DESCRIPTION					:{BLACK}Description: {SILVER}110 Kazakhstan city names and 7000+ other localitys. Based on public information published by Statistics Committee Ministry of the National Economy of the Republic of Kazakhstan. Translit by GOST 7.79-2000 System B{}{}{BLACK}Owner: {SILVER}{COPYRIGHT} GOID{}{BLACK}Date: {SILVER}2018-01-25{}{BLACK}License: {SILVER}CC-BY-SA 3.0{}
+STR_GRF_URL							:https://www.tt-forums.net/viewtopic.php?f=67&t=82529
+
+STR_GAME_OPTIONS_TOWN_NAME_RU	:Kazakh (real, Cyrillic)
+STR_GAME_OPTIONS_TOWN_NAME_EN	:Kazakh (real, Latin)
+STR_GAME_OPTIONS_TOWN_NAME_KZ	:Kazakh (real, Native cyrillic)
