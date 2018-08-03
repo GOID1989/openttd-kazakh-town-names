@@ -1,4 +1,4 @@
-# openttd-kazakh-town-names
+# Kazakh Town Names
 
 Real world refference - https://en.wikipedia.org/wiki/Kazakhstan
 
